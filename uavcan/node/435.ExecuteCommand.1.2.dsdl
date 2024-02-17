@@ -6,6 +6,14 @@ uint16 command
 # Vendors can define arbitrary, vendor-specific commands in the bottom part of the range (starting from zero).
 # Vendor-specific commands shall not use identifiers above 32767.
 
+# AirCRAFT Lab commands
+uint16 COMMAND_DATA_ACQUISITION_START  = 110
+uint16 COMMAND_DATA_ACQUISITION_STOP   = 111
+uint16 COMMAND_DATA_ACQUISITION_CONFIG = 112
+uint16 COMMAND_DATA_CALIBRATION_START  = 130
+uint16 COMMAND_DATA_CALIBRATION_SUBMIT = 131
+uint16 COMMAND_DATA_CALIBRATION_CANCEL = 132
+
 uint16 COMMAND_RESTART = 65535
 # Reboot the node.
 # Note that some standard commands may or may not require a restart in order to take effect; e.g., factory reset.
