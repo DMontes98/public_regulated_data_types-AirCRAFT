@@ -6,7 +6,7 @@ uint16 command
 # Vendors can define arbitrary, vendor-specific commands in the bottom part of the range (starting from zero).
 # Vendor-specific commands shall not use identifiers above 32767.
 
-# AirCRAFT Lab commands
+# AirCRAFT Lab Commands
 uint16 COMMAND_DATA_ACQUISITION_START  = 110
 uint16 COMMAND_DATA_ACQUISITION_STOP   = 111
 uint16 COMMAND_DATA_ACQUISITION_CONFIG = 112
