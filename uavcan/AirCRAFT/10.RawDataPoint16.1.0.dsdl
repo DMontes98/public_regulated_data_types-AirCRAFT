@@ -14,17 +14,5 @@ uint8 DATA_SOURCE_1   = 0
 uint8 DATA_SOURCE_2   = 1
 uint8 DATA_SOURCE_3   = 2
 uint8 DATA_SOURCE_4   = 3
-uint8 DATA_SOURCE_5   = 4
-uint8 DATA_SOURCE_6   = 5
-uint8 DATA_SOURCE_7   = 6
-uint8 DATA_SOURCE_8   = 7
-uint8 DATA_SOURCE_9   = 8
-uint8 DATA_SOURCE_10  = 9
-uint8 DATA_SOURCE_11  = 10
-uint8 DATA_SOURCE_12  = 11
-uint8 DATA_SOURCE_13  = 12
-uint8 DATA_SOURCE_14  = 13
-uint8 DATA_SOURCE_15  = 14
-uint8 DATA_SOURCE_16  = 15
 
 @extent 56
