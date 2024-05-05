@@ -1,0 +1,5 @@
+# Sent as data stream terminator
+
+uint8 flags
+
+@extent 8
